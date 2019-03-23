@@ -10,8 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-// git
-         int x;
+// git , kotlin// стр и инт коммит + пуш
+
+         int x = 0;
 
 
     }
