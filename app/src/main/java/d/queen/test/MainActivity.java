@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
 // git , kotlin// стр и инт коммит + пуш
 
-         int x = 0;
+         int x = 4;
 
 
     }
